@@ -1,9 +1,8 @@
-package assignments.all;
+package Assignment1_DataTypes;
 
 public class DataTypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//1. Temperature of a city in degrees Celsius: 25.5
 	  	float Temperature = 25.5F;
 	  	System.out.println("Temperature of a city in degrees Celsius: "+Temperature);
