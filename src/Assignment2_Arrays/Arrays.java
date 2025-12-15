@@ -1,4 +1,4 @@
-package Assignments2_Arrays;
+package Assignment2_Arrays;
 
 public class Arrays 
 {
