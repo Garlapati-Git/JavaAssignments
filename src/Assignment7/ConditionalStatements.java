@@ -3,13 +3,7 @@ package Assignment7;
 public class ConditionalStatements {
 
 	public static void main(String[] args) 
-	{
-		/*System.main("CustomerName: ", args);
-		System.main("CredirScore", args);
-		System.main("income", args);
-		System.main("isEmployed", args);
-		System.main("debtToIncomeRation", args);*/
-		
+	{		
 		String CustomerName = "John Doe";
 		short CreditScore = 720;
 		int income = 55000;
